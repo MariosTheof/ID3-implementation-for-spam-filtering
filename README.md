@@ -12,4 +12,4 @@ This:
     import pprint
     pprint.pprint(tree)
 ```
-Should give you something like :
+Should give you something like : ![](Capture.PNG)
